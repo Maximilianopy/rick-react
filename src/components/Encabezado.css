@@ -1,0 +1,18 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+}
+li {
+  margin-left: 1rem;
+}
+a {
+  text-decoration: none;
+  display: flex;
+}
